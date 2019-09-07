@@ -4,7 +4,7 @@
 
 Email: s3819073@student.rmit.edu.au
 
-Hello, my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust doing general home and garden maintenance. Some of my hobbies include: reading, cycling, pc gaming.
+Hello, my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Some of my hobbies include: reading, cycling, pc gaming.
 
 ## **Interest in IT**
 
