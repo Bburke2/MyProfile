@@ -23,5 +23,12 @@ Although my ideal job would be to work from home, for the sake of this assignmen
 
 ![Ideal Job](https://github.com/Bburke2/MyProfile/raw/master/Backend%20Developer%20Linux.JPG)
 
+This job is for a position as a Backend developer of Linux based open-source databases through cloud technology providers, utilising mostly Python; but also Go, C, and Java/javascript, and HTML. This position interests me because there are a number of qualifications which I have just recently become interested in and started learning. These include Linux systems, the Python programming language, and the open-source aspect of software development; which is something I would like to contribute towards.
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In order to qualify for this position or pursue a career in a similar area I will need to become familiar with Linux systems. Currently, I have no experience with Linux, however, I have recently just begun to learn it as I have installed the Ubuntu distribution of Linux onto my old Macbook Pro and will use this to begin learning. I will also need to be proficient with the Python programming language, which I have also just recently begun to learn. Thankfully, I have some minor experience with c++ programming, which is similar, and is aiding in my learning of the language. I will also require a skill set in web development and database technologies, as well as network management and systems administration skills in order to further establish my qualifications as a back-end developer. 
+
+Because this job involves the use of cloud technologies, choosing to specialise in either ‘Security and Cloud Computing’ or ‘Data management’ will provide me with the necessary skills to qualify for this position. The ‘Web Programming’ (RMI-CPT270) subject can work as my official start to developing my web-based programming skills, with my focus being on back-end programming. I might also consider choosing ‘Web Development Technologies’ (CPT373) and ‘Web Database Applications’ (CPT375) as electives to further my experience and qualifications in Web and database technologies. Also, because the employer has emphasized their desire to “automate everything” I think it would be beneficial to choose ‘Scripting Language Programming’ (CPT223) as an elective subject. This subject will assist me in developing the skills needed to write software systems that can be automated.
+
+## **My Profile**
+
+
