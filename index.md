@@ -31,4 +31,4 @@ Because this job involves the use of cloud technologies, choosing to specialise 
 
 ## **My Profile**
 
-
+![Myers-Briggs](https://github.com/Bburke2/MyProfile/blob/master/Images/Logician.JPG){:height="300px" width="300px"}. ![Big 5](https://github.com/Bburke2/MyProfile/blob/master/Images/big%205.JPG){:height="300px" width="300px"}.
