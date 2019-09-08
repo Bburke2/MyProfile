@@ -19,7 +19,7 @@ During my studies of Information Technology I expect to learn real-world skills 
 
 Although my ideal job would be to work from home, for the sake of this assignment I have chosen this position as a Backend Developer of open source databases via Cloud technology providers:
 
-[Ideal Job source] (https://www.seek.com.au/job/39695279?type=standout&searchrequesttoken=8dd5b2f8-25fb-4c73-83d5-fece379d33f5)
+[Ideal Job source](https://www.seek.com.au/job/39695279?type=standout&searchrequesttoken=8dd5b2f8-25fb-4c73-83d5-fece379d33f5)
 
 ![Ideal Job](https://github.com/Bburke2/MyProfile/raw/master/Backend%20Developer%20Linux.JPG)
 
