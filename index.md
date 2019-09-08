@@ -21,7 +21,7 @@ Although my ideal job would be to work from home, for the sake of this assignmen
 
 [Ideal Job source](https://www.seek.com.au/job/39695279?type=standout&searchrequesttoken=8dd5b2f8-25fb-4c73-83d5-fece379d33f5)
 
-![Ideal job](https://github.com/Bburke2/MyProfile/blob/master/Images/Backend%20Developer%20Linux.JPG)
+![Ideal job](https://github.com/Bburke2/MyProfile/raw/master/Images/Backend%20Developer%20Linux.JPG)
 
 This job is for a position as a Backend developer of Linux based open-source databases through cloud technology providers, utilising mostly Python; but also Go, C, and Java/javascript, and HTML. This position interests me because there are a number of qualifications which I have just recently become interested in and started learning. These include Linux systems, the Python programming language, and the open-source aspect of software development; which is something I would like to contribute towards.
 
@@ -31,4 +31,5 @@ Because this job involves the use of cloud technologies, choosing to specialise 
 
 ## **My Profile**
 
-![Myers-Briggs](https://github.com/Bburke2/MyProfile/blob/master/Images/Logician.JPG){:height="300px" width="300px"}. ![Big 5](https://github.com/Bburke2/MyProfile/blob/master/Images/big%205.JPG){:height="300px" width="300px"}.
+![Myers-Briggs](https://github.com/Bburke2/MyProfile/raw/master/Images/Logician.JPG){:height="300px" width="300px"}.
+![Big 5](https://github.com/Bburke2/MyProfile/raw/master/Images/big%205.JPG){:height="300px" width="300px"}.
