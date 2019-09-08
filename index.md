@@ -1,8 +1,6 @@
 ## **Personal Information**
 
-#### Bradley Burke #s3819073 
-
-<img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg">
+#### Bradley Burke #s3819073 <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg">
 
 _Email_: s3819073@student.rmit.edu.au
 
