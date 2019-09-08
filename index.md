@@ -1,8 +1,8 @@
 ## **Personal Information**
 
-#### Bradley Burke #### #s3819073 <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg">
+#### Bradley Burke # #s3819073 <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg">
 
-#### _Email:_ #### s3819073@student.rmit.edu.au
+#### _Email:_ # s3819073@student.rmit.edu.au
 
 Hello, my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Some of my hobbies include: reading, cycling, and pc gaming.
 
