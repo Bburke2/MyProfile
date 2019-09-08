@@ -15,6 +15,12 @@ RMIT offers me the ability to study a University degree online, as my social anx
 During my studies of Information Technology I expect to learn real-world skills and knowledge that reflects the current and emerging technologies in the industry. I expect to learn the fundamentals of software programming and ideally come to possess a thorough and eclectic understanding of IT that might allow me the potential to innovate within the many areas of the field. Ultimately I would like to attain a comprehensive understanding of the many aspects of IT as well as achieve a high level of competence within my interests and chosen specialisation of IT. 
 
 
+## **Ideal Job**
+
+Although my ideal job would be to work from home, for the sake of this assignment I have chosen this position as a Backend Developer of open source databases via Cloud technology providers:
+
+[Ideal Job source] (https://www.seek.com.au/job/39695279?type=standout&searchrequesttoken=8dd5b2f8-25fb-4c73-83d5-fece379d33f5)
+
 ![Ideal Job](https://github.com/Bburke2/MyProfile/raw/master/Backend%20Developer%20Linux.JPG)
 
 
