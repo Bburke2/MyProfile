@@ -32,7 +32,8 @@ Because this job involves the use of cloud technologies, choosing to specialise 
 ## **My Profile**
 
 ![Myers-Briggs](https://github.com/Bburke2/MyProfile/raw/master/Images/Logician.JPG)
-![Visual Learner](https://github.com/Bburke2/MyProfile/raw/master/Images/Visual%20learner.JPG)
 ![Big 5](https://github.com/Bburke2/MyProfile/raw/master/Images/big%205.JPG)
+![Visual Learner](https://github.com/Bburke2/MyProfile/raw/master/Images/Visual%20learner.JPG)
+
 
 
