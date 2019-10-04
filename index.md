@@ -1,9 +1,10 @@
 <style>
 body {
   background-color: #08195c;
-  font-color: ##ffffff;
+  font-color: #ffffff;
  }
 </style>
+
 ## **Personal Information** <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
 
 #### Bradley Burke #s3819073
