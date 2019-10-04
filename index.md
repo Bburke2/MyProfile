@@ -1,6 +1,7 @@
 <style>
 body {
   background-color: #08195c;
+  color: #fcfcfc;
  }
 </style>
 
@@ -9,9 +10,9 @@ body {
 #### Bradley Burke #s3819073
 
 #### Email: _s3819073@student.rmit.edu.au_
-<p font color="#fcfcfc">
+
 Hello, my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.
-</P>
+
 ## **Interest in IT**
 
 I am interested in IT because of its limitless potential and far-reaching impact. Yet, because of this I think I have always been rather  intimidated by its ever-growing complexity and hesitant towards pursuing a  career in it. The areas of IT which interest me the most are virtual and  artificial reality, machine learning, as well as Holographic technology, which has always been a distinct interest of mine; and I always comment or  critique on its depiction in science fiction films and media. The extent of my experience in IT is when I chose it as an elective for year 10 in high school, as well as some experience with eclipse using C++ to make basic programs, and watching youtube tutorials.
