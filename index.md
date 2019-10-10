@@ -3,12 +3,7 @@ body {
   background-color: #08195c;
   color: #ebebeb;
  }
-
-div {
-   word-wrap: break-word;
-   width: 100px;
-}
-          </style>
+</style>
 
 <b>Personal Information</b> <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
 
@@ -22,6 +17,12 @@ div {
 <h4><b>Background:</b></h4>
     <p>John and I have previously worked together; John was my manager as a senior systems administrator and has trained myself on a variety of different systems and technologies. Since that time John has moved on to other roles. I reached out to John and asked if he would do this interview and he agreed, below is the transcript from that conversation.
     </p>
+<style>
+div {
+   word-wrap: break-word;
+   width: 100px;
+}
+</style>
 <p>Interviewer: My name is Travis Anderson, I’m going to be interviewing John, this interview is for Assessment two of RMIT Subject Introduction to Information Technology. The Time is 12:30pm on the 8th of October. .</p>
 <p>John is a senior security engineer for a company in Sydney CBD, I’m going to be asking him a variety of questions about that role in the company. .</p>
 <p>Interviewee: I work as a senior security engineer basically looking after customers securing their incoming and outbound email streams, emails being the biggest communication method for organisations these days as well as dabbling in the endpoint security space as well. .</p>
