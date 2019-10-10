@@ -1,4 +1,8 @@
-<style>
+  <!DOCTYPE HTML>
+
+  <html>
+      <body>
+    <style>
 body {
   background-color: #08195c;
   color: #ebebeb;
@@ -12,6 +16,24 @@ body {
 #### Email: _s3819073@student.rmit.edu.au_
 
 <p>Hello,</p> <p style="margin-left:10%;"> my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h5>Background:</h5>
   <aside>
@@ -83,3 +105,6 @@ An artefact of Minecraft could be used as a model to create, test and troublesho
 Proficient experience with game development will be vital. The essential aspect of the artefact will be to display the code of, say for example a tree, and be able to edit and change its code without causing catastrophic errors in the game. What code can and cannot be changed will need to be clearly defined, heavily structured and thoroughly troubleshooted to safegaurd against game breaking errors whilst also ensuring the game remains challenging.
 
 Ideally, the outcome of this project is to create an artefact for a game that will allow players to have an engaging, hands-on experience with programming that will encourage them to practise, test and experiment with code. I know that making an entire game or even a flawless artefact is quite an unrealistic idea for a project. However, I think that the concept of a game where the player can see and interact with the code from within the game itself could be a unique way of teaching programming through arguably the most enjoyable and engaging form of Information technology - video games.
+
+  </html>
+      </body>
