@@ -106,5 +106,7 @@ Proficient experience with game development will be vital. The essential aspect 
 
 Ideally, the outcome of this project is to create an artefact for a game that will allow players to have an engaging, hands-on experience with programming that will encourage them to practise, test and experiment with code. I know that making an entire game or even a flawless artefact is quite an unrealistic idea for a project. However, I think that the concept of a game where the player can see and interact with the code from within the game itself could be a unique way of teaching programming through arguably the most enjoyable and engaging form of Information technology - video games.
 
-  </html>
       </body>
+  </html>
+  
+  </!DOCTYPE HTML>
