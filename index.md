@@ -9,36 +9,18 @@ body {
  }
           </style>
 
-## **Personal Information** <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
+<b>Personal Information**</b> <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
 
-#### Bradley Burke #s3819073
+<h4>Bradley Burke #s3819073</h4>
 
-#### Email: _s3819073@student.rmit.edu.au_
+<h4>Email: <i>s3819073@student.rmit.edu.au</i></h4>
 
 <p>Hello,</p> <p style="margin-left:10%;"> my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
-<p>
-  
-  </p>
-<p>
-  
-  </p>
-<p>
-  
-  </p>
-<p>
-  
-  </p>
-<p>
-  
-  </p>
 
-<p>
-  
-  </p>
 ................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 <h5>Background:</h5>
   <aside>
-    <p>John and I have previously worked together; John was my manager as a senior systems administrator and has trained myself on a variety of different systems and technologies. Since that time John has moved on to other roles. I reached out to John and asked if he would do this interview and he agreed, below is the transcript from that conversation. .
+    <p style="margin-left:10%;">John and I have previously worked together; John was my manager as a senior systems administrator and has trained myself on a variety of different systems and technologies. Since that time John has moved on to other roles. I reached out to John and asked if he would do this interview and he agreed, below is the transcript from that conversation. .
     </p>
   </aside>
 <p>Interviewer: My name is Travis Anderson, I’m going to be interviewing John, this interview is for Assessment two of RMIT Subject Introduction to Information Technology. The Time is 12:30pm on the 8th of October. .</p>
