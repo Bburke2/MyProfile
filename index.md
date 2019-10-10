@@ -3,13 +3,8 @@ body {
   background-color: #08195c;
   color: #ebebeb;
 }
-i {
-  display: inline;  
-}
-
-m {
-  margin-left: 10%;
-}
+i {display: inline;}
+m {margin-left: 10%;}
 </style>
 
 <b>Personal Information</b> <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
@@ -24,21 +19,21 @@ m {
 <p><b>Background:</b></p>
 <p>John and I have previously worked together; John was my manager as a senior systems administrator and has trained myself on a variety of different systems and technologies. Since that time John has moved on to other roles. I reached out to John and asked if he would do this interview and he agreed, below is the transcript from that conversation.</p>
 <div>
-Interviewer:<p class="i": class="m">My name is Travis Anderson, I’m going to be interviewing John, this interview is for Assessment two of RMIT Subject Introduction to Information Technology. The Time is 12:30pm on the 8th of October.</p>
+  Interviewer: <p class="i", class="m"></p>My name is Travis Anderson, I’m going to be interviewing John, this interview is for Assessment two of RMIT Subject Introduction to Information Technology. The Time is 12:30pm on the 8th of October.
 </div>
-<p>John is a senior security engineer for a company in Sydney CBD, I’m going to be asking him a variety of questions about that role in the company. .</p>
-<p>Interviewee: I work as a senior security engineer basically looking after customers securing their incoming and outbound email streams, emails being the biggest communication method for organisations these days as well as dabbling in the endpoint security space as well. .</p>
-<p>Interviewer: Who do you interact with on a daily, do you work with other IT professionals, do you have your own team, client’s investors or general public? .</p>
-<p>Interviewee: I mainly work on projects; I’ll be dealing with security architects and business analysts from the customer environment securing their systems essentially. Anything from project managers, security engineers on the other end as well as marketing. It’s a bit of a broad spectrum really. .</p>
-<p>Interviewer: Where do you spend most of your time working? Is it in an office environment, server room etc. .</p>
-<p>Interviewee: Mainly office environment, sometimes there is a requirement to be on site with the customer to deliver training workshops or explaining changes that we have made to a new team that has inherited the project now. It’s a bit of a mixed bag. .</p>
-<p>Interviewer: What would you say the hardest aspect of your role is? .</p>
-<p>Interviewee: I think the hardest aspect would be trying to get certain concepts across to the client, Sometime they are a bit rude and in an old way of thinking, the threat landscape is constantly adapting and requires new thought processes and new ways to deal with these emerging threats and trying to explain to the client that on-demand scans aren’t exactly useful and not required anymore can be challenging at times. .</p>
-<p>Interviewer: What does your day-to-day look like? Starting from the morning when you wake up all the way until you finish work for the day. .</p>
-<p>Interviewee: I get up and go to the gym if I’m feeling up to it. Once I get into work the first thing I do is get into my email and see that the systems that we have implemented in the customer environment have triggered any alerts, I then triage those alerts then get in contact with the customer to see if something is wrong. Especially with email as it is the main method of communication as previous said. .</p>
-<p>Interviewer: What sort of email system do you use? .</p>
-<p>Interviewee: We use outlook as the main email client, but we have a platform called Agari which does your outbound and inbound traffic, it is not a filter, it not a secure email gateway. It is more of a behaviour analysis thing, so if someone is pretending to be the CEO emailing in. It is its own platform/product integrating into office 365. .</p>
-<p>Interviewer: So, after you’ve gone through and checked your emails, reviewed previous jobs from the day before, would you then contact your clients for jobs? .</p>
+<p>John is a senior security engineer for a company in Sydney CBD, I’m going to be asking him a variety of questions about that role in the company.</p>
+<p>Interviewee: I work as a senior security engineer basically looking after customers securing their incoming and outbound email streams, emails being the biggest communication method for organisations these days as well as dabbling in the endpoint security space as well.</p>
+<p>Interviewer: Who do you interact with on a daily, do you work with other IT professionals, do you have your own team, client’s investors or general public?</p>
+<p>Interviewee: I mainly work on projects; I’ll be dealing with security architects and business analysts from the customer environment securing their systems essentially. Anything from project managers, security engineers on the other end as well as marketing. It’s a bit of a broad spectrum really.</p>
+<p>Interviewer: Where do you spend most of your time working? Is it in an office environment, server room etc.</p>
+<p>Interviewee: Mainly office environment, sometimes there is a requirement to be on site with the customer to deliver training workshops or explaining changes that we have made to a new team that has inherited the project now. It’s a bit of a mixed bag.</p>
+<p>Interviewer: What would you say the hardest aspect of your role is?</p>
+<p>Interviewee: I think the hardest aspect would be trying to get certain concepts across to the client, Sometime they are a bit rude and in an old way of thinking, the threat landscape is constantly adapting and requires new thought processes and new ways to deal with these emerging threats and trying to explain to the client that on-demand scans aren’t exactly useful and not required anymore can be challenging at times.</p>
+<p>Interviewer: What does your day-to-day look like? Starting from the morning when you wake up all the way until you finish work for the day.</p>
+<p>Interviewee: I get up and go to the gym if I’m feeling up to it. Once I get into work the first thing I do is get into my email and see that the systems that we have implemented in the customer environment have triggered any alerts, I then triage those alerts then get in contact with the customer to see if something is wrong. Especially with email as it is the main method of communication as previous said.</p>
+<p>Interviewer: What sort of email system do you use?</p>
+<p>Interviewee: We use outlook as the main email client, but we have a platform called Agari which does your outbound and inbound traffic, it is not a filter, it not a secure email gateway. It is more of a behaviour analysis thing, so if someone is pretending to be the CEO emailing in. It is its own platform/product integrating into office 365.</p>
+<p>Interviewer: So, after you’ve gone through and checked your emails, reviewed previous jobs from the day before, would you then contact your clients for jobs?</p>
 <p>If it is a project, there is normally scheduled cadence calls, so once a week we will call up and see if the last meeting action items have been completed, review the platform and come up with action items for the next call and that will take up a lot of my time. Other times it will be demonstrations to potential clients. Then wrap up about 5-5:30pm and call it day.</p>
 
 
