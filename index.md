@@ -10,7 +10,7 @@ body {
 #### Bradley Burke #s3819073
 
 #### Email: _s3819073@student.rmit.edu.au_
-<p><b>Hello,</b> style="margin-left:5%;"> Hello, my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
+Hello,<p style="margin-left:5%;"> my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
 
 ## **Interest in IT**
 
