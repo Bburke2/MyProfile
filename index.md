@@ -91,5 +91,3 @@ Ideally, the outcome of this project is to create an artefact for a game that wi
 
       </body>
   </html>
-  
-  </!DOCTYPE HTML>
