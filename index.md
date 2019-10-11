@@ -3,8 +3,6 @@ body {
   background-color: #08195c;
   color: #ebebeb;
 }
-i {display: inline;}
-m {margin-left: 10%;}
 </style>
 
 <b>Personal Information</b> <img align="right" src="https://github.com/Bburke2/MyProfile/raw/master/Images/IMG_5727.jpg" alt="alt text">
