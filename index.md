@@ -15,7 +15,7 @@ m {margin-left: 10%;}
 
 <p> Hello, </p><p style="margin-left:10%;"> my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
 
-<h4><b>Interest in IT</h4></b>
+<h4><b>Interest in IT</b></h4>
 
 I am interested in IT because of its limitless potential and far-reaching impact. Yet, because of this I think I have always been rather  intimidated by its ever-growing complexity and hesitant towards pursuing a  career in it. The areas of IT which interest me the most are virtual and  artificial reality, machine learning, as well as Holographic technology, which has always been a distinct interest of mine; and I always comment or  critique on its depiction in science fiction films and media. The extent of my experience in IT is when I chose it as an elective for year 10 in high school, as well as some experience with eclipse using C++ to make basic programs, and watching youtube tutorials.
 
@@ -24,7 +24,7 @@ RMIT offers me the ability to study a University degree online, as my social anx
 During my studies of Information Technology I expect to learn real-world skills and knowledge that reflects the current and emerging technologies in the industry. I expect to learn the fundamentals of software programming and ideally come to possess a thorough and eclectic understanding of IT that might allow me the potential to innovate within the many areas of the field. Ultimately I would like to attain a comprehensive understanding of the many aspects of IT as well as achieve a high level of competence within my interests and chosen specialisation of IT. 
 
 
-<h4><b>Ideal Job</h4></b>
+<h4><b>Ideal Job</b></h4>
 
 Although my ideal job would be to work from home, for the sake of this assignment I have chosen this position as a Backend Developer of open source databases via Cloud technology providers:
 
@@ -38,7 +38,7 @@ In order to qualify for this position or pursue a career in a similar area I wil
 
 Because this job involves the use of cloud technologies, choosing to specialise in either ‘Security and Cloud Computing’ or ‘Data management’ will provide me with the necessary skills to qualify for this position. The ‘Web Programming’ (RMI-CPT270) subject can work as my official start to developing my web-based programming skills, with my focus being on back-end programming. I might also consider choosing ‘Web Development Technologies’ (CPT373) and ‘Web Database Applications’ (CPT375) as electives to further my experience and qualifications in Web and database technologies. Also, because the employer has emphasized their desire to “automate everything” I think it would be beneficial to choose ‘Scripting Language Programming’ (CPT223) as an elective subject. This subject will assist me in developing the skills needed to write software systems that can be automated.
 
-<h4><b>My Profile</h4></b>
+<h4><b>My Profile</b></h4>
 
 ![Myers-Briggs](https://github.com/Bburke2/MyProfile/raw/master/Images/Logician.JPG)
 ![Big 5](https://github.com/Bburke2/MyProfile/raw/master/Images/big%205.JPG)
@@ -50,7 +50,7 @@ Because I have a more introverted nature I am unlikely to play a leadership or m
 
 Ideally, when forming a team I would look for outgoing, extroverted members to provide more social, communication, and management skills which I am not so inclined towards, so that I may effectively contribute to the group in the areas that I feel most comfortable. I also think that having team members who are more pragmatic in their approach and are less likely to over analyse, would provide a suitable balance to my less pragmatic nature that is likely to over analyse. Finding team members who share the same learning style would be good but not entirely necessary, as I think having team members who have different learning styles would actually benefit the team more. Our team would be able to offer a more engaging presentation if we incorporated more than one learning style into the presentation of our project.
 
-<h4><b>Project Idea</h4></b>
+<h4><b>Project Idea</b></h4>
 
 The project I have chosen is an artefact for a 3D, sandbox game model that allows players to see and change the games code from within the games GUI itself. The artefact aims to promote the learning of programming through an interactive game environment. The target audience for the completed game will be primarily, but not exclusively, children; and is intended to be extremely customisable and offer an enjoyable, hands-on learning experience.
 
