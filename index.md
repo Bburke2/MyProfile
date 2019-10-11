@@ -15,29 +15,7 @@ m {margin-left: 10%;}
 
 <p> Hello, </p><p style="margin-left:10%;"> my name is Bradley Allen Burke, I am 21 years old and work as a casual for the Illawarra Retirement Trust (IRT) doing general home and garden maintenance. Interesting Fact: I did Gymnastics for 7 years and Played Soccer for nearly 15. Some of my hobbies include: reading, cycling, and pc gaming.</p>
 
-................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-<p><b>Background:</b></p>
-<p>John and I have previously worked together; John was my manager as a senior systems administrator and has trained myself on a variety of different systems and technologies. Since that time John has moved on to other roles. I reached out to John and asked if he would do this interview and he agreed, below is the transcript from that conversation.</p>
-<div>
-  Interviewer: <p class="i": style="margin-left:10%;"></p>My name is Travis Anderson, I’m going to be interviewing John, this interview is for Assessment two of RMIT Subject Introduction to Information Technology. The Time is 12:30pm on the 8th of October.
-</div>
-<p>John is a senior security engineer for a company in Sydney CBD, I’m going to be asking him a variety of questions about that role in the company.</p>
-<p>Interviewee: I work as a senior security engineer basically looking after customers securing their incoming and outbound email streams, emails being the biggest communication method for organisations these days as well as dabbling in the endpoint security space as well.</p>
-<p>Interviewer: Who do you interact with on a daily, do you work with other IT professionals, do you have your own team, client’s investors or general public?</p>
-<p>Interviewee: I mainly work on projects; I’ll be dealing with security architects and business analysts from the customer environment securing their systems essentially. Anything from project managers, security engineers on the other end as well as marketing. It’s a bit of a broad spectrum really.</p>
-<p>Interviewer: Where do you spend most of your time working? Is it in an office environment, server room etc.</p>
-<p>Interviewee: Mainly office environment, sometimes there is a requirement to be on site with the customer to deliver training workshops or explaining changes that we have made to a new team that has inherited the project now. It’s a bit of a mixed bag.</p>
-<p>Interviewer: What would you say the hardest aspect of your role is?</p>
-<p>Interviewee: I think the hardest aspect would be trying to get certain concepts across to the client, Sometime they are a bit rude and in an old way of thinking, the threat landscape is constantly adapting and requires new thought processes and new ways to deal with these emerging threats and trying to explain to the client that on-demand scans aren’t exactly useful and not required anymore can be challenging at times.</p>
-<p>Interviewer: What does your day-to-day look like? Starting from the morning when you wake up all the way until you finish work for the day.</p>
-<p>Interviewee: I get up and go to the gym if I’m feeling up to it. Once I get into work the first thing I do is get into my email and see that the systems that we have implemented in the customer environment have triggered any alerts, I then triage those alerts then get in contact with the customer to see if something is wrong. Especially with email as it is the main method of communication as previous said.</p>
-<p>Interviewer: What sort of email system do you use?</p>
-<p>Interviewee: We use outlook as the main email client, but we have a platform called Agari which does your outbound and inbound traffic, it is not a filter, it not a secure email gateway. It is more of a behaviour analysis thing, so if someone is pretending to be the CEO emailing in. It is its own platform/product integrating into office 365.</p>
-<p>Interviewer: So, after you’ve gone through and checked your emails, reviewed previous jobs from the day before, would you then contact your clients for jobs?</p>
-<p>If it is a project, there is normally scheduled cadence calls, so once a week we will call up and see if the last meeting action items have been completed, review the platform and come up with action items for the next call and that will take up a lot of my time. Other times it will be demonstrations to potential clients. Then wrap up about 5-5:30pm and call it day.</p>
-
-
-## **Interest in IT**
+<h4><b>Interest in IT</h4></b>
 
 I am interested in IT because of its limitless potential and far-reaching impact. Yet, because of this I think I have always been rather  intimidated by its ever-growing complexity and hesitant towards pursuing a  career in it. The areas of IT which interest me the most are virtual and  artificial reality, machine learning, as well as Holographic technology, which has always been a distinct interest of mine; and I always comment or  critique on its depiction in science fiction films and media. The extent of my experience in IT is when I chose it as an elective for year 10 in high school, as well as some experience with eclipse using C++ to make basic programs, and watching youtube tutorials.
 
@@ -46,7 +24,7 @@ RMIT offers me the ability to study a University degree online, as my social anx
 During my studies of Information Technology I expect to learn real-world skills and knowledge that reflects the current and emerging technologies in the industry. I expect to learn the fundamentals of software programming and ideally come to possess a thorough and eclectic understanding of IT that might allow me the potential to innovate within the many areas of the field. Ultimately I would like to attain a comprehensive understanding of the many aspects of IT as well as achieve a high level of competence within my interests and chosen specialisation of IT. 
 
 
-## **Ideal Job**
+<h4><b>Ideal Job</h4></b>
 
 Although my ideal job would be to work from home, for the sake of this assignment I have chosen this position as a Backend Developer of open source databases via Cloud technology providers:
 
@@ -60,7 +38,7 @@ In order to qualify for this position or pursue a career in a similar area I wil
 
 Because this job involves the use of cloud technologies, choosing to specialise in either ‘Security and Cloud Computing’ or ‘Data management’ will provide me with the necessary skills to qualify for this position. The ‘Web Programming’ (RMI-CPT270) subject can work as my official start to developing my web-based programming skills, with my focus being on back-end programming. I might also consider choosing ‘Web Development Technologies’ (CPT373) and ‘Web Database Applications’ (CPT375) as electives to further my experience and qualifications in Web and database technologies. Also, because the employer has emphasized their desire to “automate everything” I think it would be beneficial to choose ‘Scripting Language Programming’ (CPT223) as an elective subject. This subject will assist me in developing the skills needed to write software systems that can be automated.
 
-## **My Profile**
+<h4><b>My Profile</h4></b>
 
 ![Myers-Briggs](https://github.com/Bburke2/MyProfile/raw/master/Images/Logician.JPG)
 ![Big 5](https://github.com/Bburke2/MyProfile/raw/master/Images/big%205.JPG)
@@ -72,7 +50,7 @@ Because I have a more introverted nature I am unlikely to play a leadership or m
 
 Ideally, when forming a team I would look for outgoing, extroverted members to provide more social, communication, and management skills which I am not so inclined towards, so that I may effectively contribute to the group in the areas that I feel most comfortable. I also think that having team members who are more pragmatic in their approach and are less likely to over analyse, would provide a suitable balance to my less pragmatic nature that is likely to over analyse. Finding team members who share the same learning style would be good but not entirely necessary, as I think having team members who have different learning styles would actually benefit the team more. Our team would be able to offer a more engaging presentation if we incorporated more than one learning style into the presentation of our project.
 
-## **Project Idea**
+<h4><b>Project Idea</h4></b>
 
 The project I have chosen is an artefact for a 3D, sandbox game model that allows players to see and change the games code from within the games GUI itself. The artefact aims to promote the learning of programming through an interactive game environment. The target audience for the completed game will be primarily, but not exclusively, children; and is intended to be extremely customisable and offer an enjoyable, hands-on learning experience.
 
