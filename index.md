@@ -5,7 +5,7 @@ body {
 }
 </style>
 
-<b>Personal Information</b> <img align="right" src="https://github.com/Bburke2/MyProfile/blob/master/IMG_3951.jpg" alt="image" width = "50%" height = "50%">
+<b>Personal Information</b> <img align="right" src="https://github.com/Bburke2/MyProfile/blob/master/IMG_3951.jpg" alt="image" height = "450" width = "200">
 
 <h4>Bradley Burke #s3819073</h4>
 
